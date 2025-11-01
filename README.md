@@ -18,8 +18,8 @@ python app.py
 Veja no terminal os preços das criptos e um CSV salvo com os dados.
 💰 Criptomoedas incluídas:
 
-Bitcoin
-Ethereum
-Solana
-Ripple
-Cardano
+Bitcoin,
+Ethereum,
+Solana,
+Ripple e
+Cardano.
